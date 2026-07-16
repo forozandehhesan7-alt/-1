@@ -1,0 +1,108 @@
+#main{
+    background-image: url(pic/F51D1259-2D3E-44AC-B73F-BFB2317DD142.png.jpeg);
+}
+    #a{
+            width: 1500px;
+            height: auto;
+        }
+        #baner{
+            background-image: url(pic/IMG_5059.png.jpeg);
+            width: 1300px;
+            height: 200px;
+            background-repeat: no-repeat;
+            background-size: 1300px 200px;
+            margin: auto;
+            border-radius: 20px;
+
+        }
+        #baner:hover{
+            border: 1px solid blue;
+        }
+        #sabt{
+            width: 40px;
+            height: 10px;
+            background-color: rgb(11, 19, 70);
+            float: left;border-radius: 10px;
+            font-size: 10px;
+            text-align: center;
+            color: white;
+            padding: 1px;
+        }
+        #sabt:hover{
+            border: 1px solid blue;
+        }
+        #zirbaner{
+            border-radius: 150px;
+            float: left;
+            width: 100px;
+            height: 100px;
+            margin:25px 50px 0px 50px;
+            padding: 1px;
+
+
+        }
+        #zirbaner:hover{
+            border: 1px solid rgb(255, 255, 255);
+
+        }
+        #market{
+            background-color: brown;
+            width: 464px;
+            height: 250px;
+             float: left;
+             border-radius: 30px;
+             padding: 1px;
+             margin: 3px;
+             background-image: url(pic/21243A5B-C769-479D-9EF4-D6CBD9DDE21A.png);
+             background-size: cover;
+             
+        }
+        #market1{
+            background-color: brown;
+            width: 464px;
+            height: 250px;
+             float: left;
+             border-radius: 30px;
+             padding: 1px;
+             margin: 2px;
+             background-image: url(pic/B069EBB5-A374-44A0-8E72-C464A2B06895.png);
+             background-size: cover;
+             
+        }
+        #market2{
+            background-color: brown;
+            width: 464px;
+            height: 250px;
+             float: left;
+             border-radius: 30px;
+             padding: 1px;
+             margin: 2px;
+             background-image: url(pic/IMG_5077.jpeg);
+             background-size: cover;
+             
+        }
+        #market3{
+            background-color: brown;
+            width: 464px;
+            height: 250px;
+             float: left;
+             border-radius: 30px;
+             padding: 1px;
+             margin: 2px;
+             background-image: url(pic/IMG_5078.jpeg);
+             background-size: cover;
+             
+        }
+        #market:hover{
+            border: 1px solid rgb(255, 255, 255);
+        }
+        
+        #market1:hover{
+            border: 1px solid rgb(255, 255, 255);
+        }
+        #market2:hover{
+            border: 1px solid rgb(255, 255, 255);
+        }
+        #market3:hover{
+            border: 1px solid rgb(255, 255, 255);
+        }
